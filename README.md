@@ -4,6 +4,7 @@ A list of resources I find useful along my journy in CP
 # Dynamic Programming (DP)
   - Tutorials
     + https://topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/
+    + https://www.youtube.com/watch?v=4VBt8sKocyw&t=623s
     + https://youtube.com/playlist?list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo
     + https://youtube.com/playlist?list=PLPt2dINI2MIattDutu7IOAMlUuLeN8k2p
     + https://codechef.com/certification/data-structures-and-algorithms/prepare#foundation
