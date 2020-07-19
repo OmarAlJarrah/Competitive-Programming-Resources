@@ -87,7 +87,7 @@ ________________________________________________________________________________
     + https://codeforces.com/problemset/problem/1353/F
     + https://codeforces.com/problemset/problem/1363/F
  _______________________________________________________________________________________________________________________________________________________________________
-# Matrix/Binary Exponentiation
+# Matrix Exponentiation
   - Tutorials
     + http://zobayer.blogspot.com/2010/11/matrix-exponentiation.html
     + https://www.youtube.com/watch?v=EEb6JP3NXBI
