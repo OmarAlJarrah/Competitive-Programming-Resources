@@ -89,9 +89,21 @@ ________________________________________________________________________________
  _______________________________________________________________________________________________________________________________________________________________________
 # Matrix/Binary Exponentiation
   - Tutorials
-    
+    + http://zobayer.blogspot.com/2010/11/matrix-exponentiation.html
+    + https://www.youtube.com/watch?v=EEb6JP3NXBI
+    + https://cp-algorithms.com/algebra/binary-exp.html
+    + https://youtube.com/watch?v=-OPohCQqi_E&t=221s
+    + https://youtube.com/watch?v=L-Wzglnm4dM&t=761s
+    + https://youtube.com/watch?v=OcqD14kI3Wk&list=PLPt2dINI2MIY7l5zyFd1W28rei3b-AXaJ&index=22&t=315s
+    + https://youtube.com/watch?v=eMXNWcbw75E&t=1114s
+    + https://youtube.com/watch?v=Tm0KGpoQ5JA&list=PLPt2dINI2MIY7l5zyFd1W28rei3b-AXaJ&index=23&t=0s
+    + https://hackerearth.com/fr/practice/notes/matrix-exponentiation-1/
+    + https://geeksforgeeks.org/matrix-exponentiation/
+    + https://codeforces.com/blog/entry/67776
+    + https://discuss.codechef.com/t/codeforces-166e-help-needed-binary-matrix-exponentiation-for-a-begineer/17331/2
 _______________________________________________________________________________________________________________________________________________________________________
   - Practice Problems
+    + https://codeforces.com/contest/166/problem/E?f0a28=1
     + https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3671
     + https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=310
     + https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1970
