@@ -33,7 +33,7 @@ ________________________________________________________________________________
     - https://codeforces.com/contest/828/problem/D
   
   
-  + Practice Problems
+  + Addtional Practice Problems
     - https://codeforces.com/problemset/problem/1336/A
     - https://codeforces.com/contest/796/problem/C
     - https://spoj.com/problems/UCV2013J/
