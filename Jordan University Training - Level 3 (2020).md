@@ -43,3 +43,25 @@ ________________________________________________________________________________
     - https://hackerrank.com/challenges/balanced-forest/problem
     - https://hackerrank.com/domains/data-structures?filters[subdomains][0]=trees&fbclid=IwAR1XN6DSA8y6kau-_ngeh4oZYim1mduxg2XIgRT5EMPyjWsAUEfZmtkWhP8
     
+    ____________________________________________________________________________________________________________________________________________________________________
+
+# Bridges & Articilation Points
+
+  + Lecture 1
+    - https://youtube.com/watch?v=ixdWTQIOfwY&feature=youtu.be&fbclid=IwAR0h2bruAsskfrvaiSM8KeZtuqvCU4sGY9GC8hgLgGgfg_e72oGuV_W_cLA
+    
+  + Practice Problems 
+    - https://spoj.com/problems/EC_P/
+    - https://codeforces.com/contest/118/problem/E
+    - https://codeforces.com/problemset/problem/193/A
+    - https://spoj.com/problems/SUBMERGE/
+    - https://codeforces.com/contest/1000/problem/E
+    
+  + Lecture 2
+    - https://youtube.com/watch?v=tq-rpkTOE-k&feature=youtu.be&fbclid=IwAR3A3jjLrPiF7H0zPoFh2GGZLLr_Dle3i2gvZdOdUTGGnz93hxiPL8ZWLNQ
+    - https://www.geeksforgeeks.org/diameter-tree-using-dfs/
+  
+  + Practice Problems
+    - https://judge.yosupo.jp/problem/two_edge_connected_components
+    - https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems
+    
