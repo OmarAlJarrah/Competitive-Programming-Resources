@@ -32,7 +32,8 @@ ________________________________________________________________________________
     - https://codeforces.com/contest/1189/problem/D1
     - https://codeforces.com/contest/828/problem/D
   
-  + Practice Crash Problems
+  
+  + Practice Problems
     - https://codeforces.com/problemset/problem/1336/A
     - https://codeforces.com/contest/796/problem/C
     - https://spoj.com/problems/UCV2013J/
