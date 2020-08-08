@@ -59,9 +59,31 @@ ________________________________________________________________________________
     
   + Lecture 2
     - https://youtube.com/watch?v=tq-rpkTOE-k&feature=youtu.be&fbclid=IwAR3A3jjLrPiF7H0zPoFh2GGZLLr_Dle3i2gvZdOdUTGGnz93hxiPL8ZWLNQ
-    - https://www.geeksforgeeks.org/diameter-tree-using-dfs/
+    - https://geeksforgeeks.org/diameter-tree-using-dfs/
   
   + Practice Problems
     - https://judge.yosupo.jp/problem/two_edge_connected_components
-    - https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems
+    - https://hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems
+    
+____________________________________________________________________________________________________________________________________________________________________
+
+# Disjoint Set Union (DSU)
+
+  + Lecure 1
+    - https://youtube.com/watch?v=ESDpnSKt49w&feature=youtu.be&fbclid=IwAR2ZavmYdXqWEN4l9m4zeHbtYW6yYfyhuYdhB1Rw21inNRpsvW6F5UHGaSs
+    
+  + Practice Problems
+    - https://judge.yosupo.jp/problem/unionfind?fbclid=IwAR2ZavmYdXqWEN4l9m4zeHbtYW6yYfyhuYdhB1Rw21inNRpsvW6F5UHGaSs
+    - https://spoj.com/problems/FRNDCIRC/fbclid=IwAR3EDsCyQ20k67xlATbQWdSguZBArajCTY2REGLO3Q6OWePCGm6jPqPumjY
+    - https://spoj.com/problems/SHAHBG/fbclid=IwAR3EDsCyQ20k67xlATbQWdSguZBArajCTY2REGLO3Q6OWePCGm6jPqPumjY
+    
+  + Lecture 2
+    - https://youtube.com/watch?v=V5d6vIOWT_Y&feature=youtu.be&fbclid=IwAR2TuyfVKni1d3L8HlhOqnw_4EWOuzg05rXyHvNjMumf9uxoUAT5WqWbgsM
+    - https://youtube.com/watch?v=r2mCjEXeTwE&feature=youtu.be&fbclid=IwAR2G2kV_t2709ObEVXf3AkxbCspL5PWmvRdrCcB0WoUJbV7J3pGKg5l9zbI
+    
+  + Practice Problems
+    - https://codeforces.com/problemset/problem/1213/G?fbclid=IwAR3HyZSo9UKcdDRQSEQMq1Ftfw_c047hRXG2KtJkWPkRlTxVHs75KLN_7Vo
+    - https://codeforces.com/problemset/problem/25/D?fbclid=IwAR30IRnuN2Gd8PA2OpPTU0OUdrTPYRTLZKZW-WwMvxz5DBu9fKD3GWWpjqE
+    - https://codeforces.com/problemset/problem/691/D?fbclid=IwAR0W2xOzl85RhgJp5VLrXQjS8v5HSxUSINX0qGwq0W-I85jQW88pa94g6yQ
+    - https://codeforces.com/problemset/problem/109/C?fbclid=IwAR1g610MAuCiT0dkn8ATmSbjze0ucrvQt2VlQhfk68Uhf_WPzipsOKsMzec
     
