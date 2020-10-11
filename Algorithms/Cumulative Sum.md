@@ -1,7 +1,7 @@
 # Cumulative Sum
   - Tutorials
     + https://www.youtube.com/watch?v=PAUSwV4zj48 - Part 1
-    + https://www.youtube.com/watch?v=hqOqr6vFPp8 - Part 2
+    + https://www.youtube.com/watch?v=hqOqr6vFPp8 - Part 2 (Optional)
     + https://drive.google.com/file/d/1X9dB_rk0VFEkgVOVQwNMLiV7oTatR3VA/view?usp=sharing - Part 3
     + https://www.youtube.com/watch?v=S0nKXwwWG8Y - Part 4
 _______________________________________________________________________________________________________________________________________________________________________
