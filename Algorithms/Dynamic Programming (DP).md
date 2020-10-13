@@ -26,34 +26,34 @@ ________________________________________________________________________________
     + [Cut Ribbon - 189A](https://codeforces.com/problemset/problem/189/A)
     + [Letter - 180C](https://codeforces.com/problemset/problem/180/C)
     + [Dynasty Puzzles - 191A](https://codeforces.com/problemset/problem/191/A)
-    + https://codeforces.com/problemset/problem/331/C1
-    + https://codeforces.com/problemset/problem/455/A
-    + https://codeforces.com/problemset/problem/545/C
-    + https://codeforces.com/problemset/problem/628/B
-    + https://codeforces.com/problemset/problem/698/A
-    + https://open.kattis.com/problems/money
-    + https://www.hackerrank.com/contests/ioi-2014-practice-contest-2/challenges/guardians-lunatics-ioi14
-    + https://www.codechef.com/problems/CHEFAOR
-    + https://www.spoj.com/problems/LARMY/
-    + https://codeforces.com/contest/321/problem/E
-    + https://codeforces.com/problemset/problem/26/C
-    + https://acm.timus.ru/problem.aspx?space=1&num=1519
-    + https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=2609
-    + http://acm.hdu.edu.cn/showproblem.php?pid=4285
-    + https://www.spoj.com/problems/PBOARD/
-    + https://www.spoj.com/problems/BTCODE_J/
-    + https://www.spoj.com/problems/DOJ2/
-    + https://www.spoj.com/problems/DOJ1/
-    + https://www.spoj.com/problems/MNTILE/
-    + https://www.spoj.com/problems/M5TILE/
-    + https://www.spoj.com/problems/GNY07H/
-    + https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1859
-    + https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1300
-    + https://codeforces.com/problemset/problem/1268/E
-    + https://codeforces.com/problemset/problem/1290/F
-    + https://codeforces.com/problemset/problem/1310/E
-    + https://codeforces.com/problemset/problem/1312/E
-    + https://codeforces.com/problemset/problem/1322/F
-    + https://codeforces.com/problemset/problem/1353/F
-    + https://codeforces.com/problemset/problem/1363/F
+    + [The Great Julya Calendar - 331C1](https://codeforces.com/problemset/problem/331/C1)
+    + [Boredom - 455A](https://codeforces.com/problemset/problem/455/A)
+    + [Woodcutters - 545C](https://codeforces.com/problemset/problem/545/C)
+    + [New Skateboard - 268B](https://codeforces.com/problemset/problem/628/B)
+    + [Vacations - 698A](https://codeforces.com/problemset/problem/698/A)
+    + [Money for Nothing - ICPC 2017](https://open.kattis.com/problems/money)
+    + [Guardians of the Lunatics - IOI 2014](https://www.hackerrank.com/contests/ioi-2014-practice-contest-2/challenges/guardians-lunatics-ioi14)
+    + [Chef and Bitwise OR Operation - CHEFAOR](https://www.codechef.com/problems/CHEFAOR)
+    + [Lannister Army - LARMY](https://www.spoj.com/problems/LARMY/)
+    + [Ciel and Gondolas - 321E](https://codeforces.com/contest/321/problem/E)
+    + [Parquet - 26C](https://codeforces.com/problemset/problem/26/C)
+    + [Formula 1 - 1519](https://acm.timus.ru/problem.aspx?space=1&num=1519)
+    +[Mosaic - ICPC Regionals 2009 North America - Southeast USA](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=2609)
+    + [Circuits - ICPC China Archive](http://acm.hdu.edu.cn/showproblem.php?pid=4285)
+    + [Blocks for kids - PBOARD](https://www.spoj.com/problems/PBOARD/)
+    + [Grid Tiling - BTCODE_J](https://www.spoj.com/problems/BTCODE_J/)
+    + [DOJO Corridor I - DOJ1](https://www.spoj.com/problems/DOJ1/)
+    + [DOJO Corridor II - DOJ2](https://www.spoj.com/problems/DOJ2/)
+    + [Tiling a WxH Grid With Dominoes - MNTILE](https://www.spoj.com/problems/MNTILE/)
+    + [The dojo s corridor - M5TILE](https://www.spoj.com/problems/M5TILE/)
+    + [Tiling a Grid With Dominoes - GNY07H](https://www.spoj.com/problems/GNY07H/)
+    + [Tri Tiling - p10918](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1859)
+    + [Tiling - p10359](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1300)
+    + [Happy Cactus - 1268E](https://codeforces.com/problemset/problem/1268/E)
+    + [Making Shapes - 1290F](https://codeforces.com/problemset/problem/1290/F)
+    + [Strange Function - 1310E](https://codeforces.com/problemset/problem/1310/E)
+    + [Array Shrinking - 1312E](https://codeforces.com/problemset/problem/1312/E)
+    + [Assigning Fares - 1322F](https://codeforces.com/problemset/problem/1322/F)
+    + [Decreasing Heights - 1353F](https://codeforces.com/problemset/problem/1353/F)
+    + [Rotating Substrings - 1363F](https://codeforces.com/problemset/problem/1363/F)
  
