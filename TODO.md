@@ -22,7 +22,8 @@
     - K Dimensional Tree
     - Segment Tree
     - Trie
-    - LCA & RMQ
+    - LCA & RMQ (DP)
+    - Maximum Empty Rectangle (DP)
     - Suffix Tree
     - Sparse Table
     - Interval Tree
