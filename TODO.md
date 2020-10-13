@@ -22,6 +22,7 @@
     - K Dimensional Tree
     - Segment Tree
     - Trie
+    - Union-Find algorithm using path-compression
     - LCA & RMQ (DP)
     - Maximum Empty Rectangle (DP)
     - Suffix Tree
