@@ -10,10 +10,15 @@
     - DFS & BFS on Grid (Matrix)
     - Dijkstra
     - DSU
+    - Topological Sorting
     - Floyd Warshall Algorithm
     - Prim Algorithm
     - Kruskal Algorithm
     - Johnson’s Algorithm
+    - Dinic's Algorithm
+    - Ford Fulkerson's Algorithm
+    - Edmonds-Karp's Algorithm
+    - Hierholzer's Algorithm (Euler Tour Construction)
     - K Dimensional Tree
     - Segment Tree
     - Trie
