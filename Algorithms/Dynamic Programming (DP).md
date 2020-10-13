@@ -38,6 +38,7 @@ ________________________________________________________________________________
     + [Ciel and Gondolas - 321E](https://codeforces.com/contest/321/problem/E)
     + [Parquet - 26C](https://codeforces.com/problemset/problem/26/C)
     + [Formula 1 - 1519](https://acm.timus.ru/problem.aspx?space=1&num=1519)
+    
     +[Mosaic - ICPC Regionals 2009 North America Southeast USA](https://icpcarchive.ecs.baylor.edu/index.php?option=onlinejudge&page=show_problem&problem=2609)
     + [Circuits - ICPC China Archive](http://acm.hdu.edu.cn/showproblem.php?pid=4285)
     + [Blocks for kids - PBOARD](https://www.spoj.com/problems/PBOARD/)
