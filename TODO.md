@@ -8,6 +8,7 @@
   + To Study
     - BFS
     - DFS & BFS on Grid (Matrix)
+    - Bitmasks
     - Dijkstra
     - DSU
     - Topological Sorting
