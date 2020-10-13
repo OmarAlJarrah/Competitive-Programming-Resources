@@ -23,32 +23,7 @@
     + https://quora.com/How-can-I-be-perfect-in-dynamic-programming-How-should-I-practice/answer/Bohdan-Pryshchenko?ch=10&share=9a742611&srid=DDSy
 _______________________________________________________________________________________________________________________________________________________________________
   - Practice Problems
-    + https://atcoder.jp/contests/dp/tasks/dp_a
-    + https://atcoder.jp/contests/dp/tasks/dp_b
-    + https://atcoder.jp/contests/dp/tasks/dp_c
-    + https://atcoder.jp/contests/dp/tasks/dp_d
-    + https://atcoder.jp/contests/dp/tasks/dp_e
-    + https://atcoder.jp/contests/dp/tasks/dp_f
-    + https://atcoder.jp/contests/dp/tasks/dp_g
-    + https://atcoder.jp/contests/dp/tasks/dp_h
-    + https://atcoder.jp/contests/dp/tasks/dp_i
-    + https://atcoder.jp/contests/dp/tasks/dp_j
-    + https://atcoder.jp/contests/dp/tasks/dp_k
-    + https://atcoder.jp/contests/dp/tasks/dp_l
-    + https://atcoder.jp/contests/dp/tasks/dp_m
-    + https://atcoder.jp/contests/dp/tasks/dp_n
-    + https://atcoder.jp/contests/dp/tasks/dp_o
-    + https://atcoder.jp/contests/dp/tasks/dp_p
-    + https://atcoder.jp/contests/dp/tasks/dp_q
-    + https://atcoder.jp/contests/dp/tasks/dp_r
-    + https://atcoder.jp/contests/dp/tasks/dp_s
-    + https://atcoder.jp/contests/dp/tasks/dp_t
-    + https://atcoder.jp/contests/dp/tasks/dp_u
-    + https://atcoder.jp/contests/dp/tasks/dp_v
-    + https://atcoder.jp/contests/dp/tasks/dp_w
-    + https://atcoder.jp/contests/dp/tasks/dp_x
-    + https://atcoder.jp/contests/dp/tasks/dp_y
-    + https://atcoder.jp/contests/dp/tasks/dp_z
+    + [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp)
     + https://codeforces.com/problemset/problem/327/A
     + https://codeforces.com/problemset/problem/189/A
     + https://codeforces.com/problemset/problem/180/C
