@@ -67,7 +67,7 @@
     
     + String
         ** String is almost the same as vector, you can consider it as a vector of 
-                characters (vector<char>), and the same functions aapplied to vector is 
+                characters (vector<char>), and the same functions applied to vector are
                 applied to strings too **
     
     + Addtional Resources : 
