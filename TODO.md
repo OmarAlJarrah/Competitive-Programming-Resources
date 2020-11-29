@@ -21,7 +21,7 @@
     - Edmonds-Karp's Algorithm (4)
     - Hierholzer's Algorithm (Euler Tour Construction) (4)
     - K Dimensional Tree (4)
-    - Segment Tree (2)
+    - Segment Tree & Lazy Propagation  (2)
     - Trie (1)
     - Union-Find algorithm using path-compression (3)
     - LCA & RMQ (DP) (3)
