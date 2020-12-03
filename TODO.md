@@ -12,6 +12,7 @@
     - Dijkstra (2)
     - DSU (1)
     - Topological Sorting (2)
+    - Hamiltonian path (DP)(2)
     - Floyd Warshall Algorithm (3)
     - Prim Algorithm (3)
     - Kruskal Algorithm (3)
