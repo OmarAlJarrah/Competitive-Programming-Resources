@@ -18,6 +18,8 @@
     - Kruskal Algorithm (3)
     - Johnson’s Algorithm (4)
     - Dinic's Algorithm (4)
+    - Dynamic Programming Over Subsets (3)
+    - Bitmasks DP (3)
     - Ford Fulkerson's Algorithm (2)
     - Edmonds-Karp's Algorithm (4)
     - Hierholzer's Algorithm (Euler Tour Construction) (4)
