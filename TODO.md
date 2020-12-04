@@ -21,6 +21,8 @@
     - Dynamic Programming Over Subsets (3)
     - Bitmasks DP (3)
     - Ford Fulkerson's Algorithm (2)
+    - Square Root decomposition (3)
+    - Tarjan's Algorithm (4)
     - Edmonds-Karp's Algorithm (4)
     - Hierholzer's Algorithm (Euler Tour Construction) (4)
     - K Dimensional Tree (4)
