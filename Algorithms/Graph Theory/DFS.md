@@ -1,7 +1,7 @@
 # DFS (Depth First Search)
 _______________________________________________________________________________________________________________________________________________________________________
 - Tutorials:
-
+    + Coming Soon!
 _______________________________________________________________________________________________________________________________________________________________________
 - Practice Problems:
   - Beginner:
@@ -18,7 +18,10 @@ ________________________________________________________________________________
     + [Ring road - 24A](http://codeforces.com/contest/24/problem/A)
     + [Making Genome in Berland - 638B](http://codeforces.com/contest/638/problem/B)
     + [Frodo and pillows - 760B](http://codeforces.com/contest/760/problem/B)
-    + 
+    + [Longest path in a tree - PT07Z](spoj.com/problems/PT07Z/fbclid=IwAR0BTrqsmwijTacKUHxUumgcXF1NR7aq1ms41hsEXO2XrPp6WGOslyIQqCs)
+    + [Glass Carving - 528A](https://codeforces.com/contest/528/problem/A)
+    + [Matrix - 364A](https://codeforces.com/contest/364/problem/A)
+    + [Vertex Cover - PT07X](https://www.spoj.com/problems/PT07X/fbclid=IwAR23bdOeU8vyASJRZOZIdU4jGTtSZbo2Q5-b30kvLlypfeHkRuJhiA2P7Lk)
   
   - Intermidiate:
     + [Road Map - 34D](https://codeforces.com/contest/34/problem/D)
