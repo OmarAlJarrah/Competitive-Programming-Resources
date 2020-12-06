@@ -24,7 +24,7 @@ ________________________________________________________________________________
     + [Transformation: from A to B - 727A](http://codeforces.com/contest/727/problem/A) 
   
   - Intermidiate:
-    + [Bank Hacking - 796C](https://codeforces.com/contest/796/problem/C)
+    + [Bank Hacking - 796C (Hint : DP)](https://codeforces.com/contest/796/problem/C)
     + [Mail Stamps - 29C](http://codeforces.com/contest/29/problem/C)
     + [From Y to Y - 849C](http://codeforces.com/contest/849/problem/C)
     + [Underground Lab - 781C](http://codeforces.com/contest/781/problem/C)
