@@ -4,31 +4,31 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________________________________________________________________________
 - Practice Problems:
-  + https://codeforces.com/problemset/problem/377/A
-  + https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2287
-  + https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2387
-  + https://codeforces.com/contest/653/problem/E
-  + https://codeforces.com/contest/769/problem/C
-  + https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1909
-  + http://codeforces.com/contest/796/problem/D
-  + https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1829
-  + http://codeforces.com/contest/821/problem/D
-  + https://codeforces.com/problemset/problem/1365/D
-  + http://www.spoj.com/problems/DIGOKEYS/ 
-  + http://www.spoj.com/problems/SPIKES/ 
-  + http://www.spoj.com/problems/MULTII/
-  + http://www.spoj.com/problems/ADV04F1/
-  + http://www.spoj.com/problems/INVESORT/
-  + https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1918
-  + https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=869
-  + https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=5027
-  + https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=250
-  + https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2482
-  + https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=3082
-  + http://www.spoj.com/problems/KNMOVE/
-  + http://www.spoj.com/problems/SERGRID/
-  + http://www.spoj.com/problems/NAKANJ/ 
-  + http://www.spoj.com/problems/PUCMM223/
-  + http://www.spoj.com/problems/SPIRALGR/ 
-  + http://www.spoj.com/problems/DCEPC706/
-  + http://codeforces.com/contest/35/problem/C 
+  + [Maze - 377A](https://codeforces.com/problemset/problem/377/A)
+  + [Flipping Frustration - 11312](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2287)
+  + [Binary*3 Type Multiple - 11392](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2387)
+  + [Bear and Forgotten Tree 2 - 653E](https://codeforces.com/contest/653/problem/E)
+  + [Cycle In Maze - 769C](https://codeforces.com/contest/769/problem/C)
+  + [KuPellaKeS - 10968](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1909)
+  + [Police Stations 769D](http://codeforces.com/contest/796/problem/D)
+  + [Warehouse - 10888](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1829)
+  + [Okabe and City - 821D](http://codeforces.com/contest/821/problem/D)
+  + [Solve The Maze - 1365D](https://codeforces.com/problemset/problem/1365/D)
+  + [Find the Treasure - DIGOKEYS](http://www.spoj.com/problems/DIGOKEYS/)
+  + [Spiky Mazes - SPIKES](http://www.spoj.com/problems/SPIKES/)
+  + [Yet Another Multiple Problem - MULTII](http://www.spoj.com/problems/MULTII/)
+  + [Four Chips (Hard) - ADV04F1](http://www.spoj.com/problems/ADV04F1/)
+  + [Inversion Sort - INVESORT](http://www.spoj.com/problems/INVESORT/)
+  + [Enchanted Forest - 10977](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1918)
+  + [Eternal Truths - 928](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=869)
+  + [Multistory Labyrinth - 13116](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=5027)
+  + [Robot - 314](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=250)
+  + [Gathering Food - 11487](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2482)
+  + [Maze Escape - 11931](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=3082)
+  + [Knight Move - KNMOVE](http://www.spoj.com/problems/KNMOVE/)
+  + [Grid - SERGRID](http://www.spoj.com/problems/SERGRID/)
+  + [Minimum Knight moves !!! - NAKANJ](http://www.spoj.com/problems/NAKANJ/ )
+  + [C You and Me - PUCMM223](http://www.spoj.com/problems/PUCMM223/)
+  + [A Famous Grid - SPIRALGR](http://www.spoj.com/problems/SPIRALGR/ )
+  + [Meeting For Party - DCEPC706](http://www.spoj.com/problems/DCEPC706/)
+  + [Fire Again - 35C](http://codeforces.com/contest/35/problem/C )
