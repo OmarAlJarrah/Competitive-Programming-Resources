@@ -1,7 +1,7 @@
 # BFS (Breadth First Search)
 _______________________________________________________________________________________________________________________________________________________________________
 - Tutorials:
-
+  + [CP-Algorithms Tutorial](https://cp-algorithms.com/graph/breadth-first-search.html)
 _______________________________________________________________________________________________________________________________________________________________________
 - Practice Problems:
   + [Maze - 377A](https://codeforces.com/problemset/problem/377/A)
@@ -31,4 +31,11 @@ ________________________________________________________________________________
   + [C You and Me - PUCMM223](http://www.spoj.com/problems/PUCMM223/)
   + [A Famous Grid - SPIRALGR](http://www.spoj.com/problems/SPIRALGR/ )
   + [Meeting For Party - DCEPC706](http://www.spoj.com/problems/DCEPC706/)
-  + [Fire Again - 35C](http://codeforces.com/contest/35/problem/C )
+  + [Fire Again - 35C](http://codeforces.com/contest/35/problem/C)
+  + [Serial Time! - 60B](https://codeforces.com/problemset/problem/60/B)
+  + [King's Path - 242C](https://codeforces.com/problemset/problem/242/C)
+  + [Love Rescue - 939D](https://codeforces.com/problemset/problem/939/D)
+  + [Jumping on Walls - 199D](https://codeforces.com/problemset/problem/199/D)
+  + [Valid BFS? - 1037D](https://codeforces.com/problemset/problem/1037/D)
+  + [0-1 Matrix - 542](https://leetcode.com/problems/01-matrix/)
+  + [Blog 1](https://codeforces.com/blog/entry/14095)
