@@ -6,6 +6,7 @@
     - Solve https://codeforces.com/contest/276/problem/C
 
   + To Study
+    - Suffix Array
     - BFS (1)
     - DFS & BFS on Grid (Matrix) (1)
     - Bitmasks (1)
