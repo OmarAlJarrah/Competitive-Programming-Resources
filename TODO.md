@@ -8,6 +8,7 @@
   + To Study
     - Suffix Array
     - BFS (1)
+    - Treap Data Strutcure 
     - DFS & BFS on Grid (Matrix) (1)
     - Bitmasks (1)
     - Dijkstra (2)
