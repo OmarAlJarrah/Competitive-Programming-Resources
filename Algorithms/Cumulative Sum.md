@@ -2,7 +2,7 @@
   - Tutorials
     + [Solver to be - intro](https://www.youtube.com/watch?v=PAUSwV4zj48)
     + [Dr.Mostafa Sa'ad - intro (Optional)](https://www.youtube.com/watch?v=hqOqr6vFPp8) 
-    + [Advanced Applications](https://drive.google.com/file/d/1X9dB_rk0VFEkgVOVQwNMLiV7oTatR3VA/view?usp=sharing)
+    + [Advanced Applications by Zawawi](https://drive.google.com/file/d/1X9dB_rk0VFEkgVOVQwNMLiV7oTatR3VA/view?usp=sharing)
     + [Dr.Mostafa Sa'ad - Addional idea](https://www.youtube.com/watch?v=S0nKXwwWG8Y)
 _______________________________________________________________________________________________________________________________________________________________________
   - Practice Problems
